@@ -1,0 +1,242 @@
+﻿Country,MediumTerm Rating (Country),Short-Term Rating (Country Risk Level)
+Afghanistan,D,4
+Albania,D,3
+Algeria,C,3
+American Samoa,A,1
+Andorra,AA,1
+Angola,D,4
+Anguilla,BB,1
+Antarctica,AA,1
+Antigua & Barbuda,C,3
+Argentina,D,4
+Armenia,D,3
+Aruba,B,2
+Australia,AA,1
+Austria,AA,1
+Azerbaijan,c,3
+Bahamas,BB,2
+Bahrain,c,3
+Ban ladesh,D,3
+Barbados,D,3
+Belarus,D,4
+Belgium,AA,1
+Belize,D,3
+Benin,c,3
+Bermuda,A,1
+"BES Islands (Bonaire, St Eustatius, Saba)",AA,1
+Bhutan,C,3
+Bolivia,D,4
+Bosnia and Herzegovina,D,3
+Botswana,B,1
+Bouvet Island,AA,1
+Brazil,B,3
+British Indian Ocean Territo,AA,1
+British Virgin Islands,A,1
+Brunei Darussalam,BB,2
+Bulgaria,B,2
+Burkina Faso,c,3
+Burundi,D,4
+Cambodia,c,3
+Cameroon,D,3
+Canada,AA,1
+Cape Verde Islands,c,3
+Cayman Islands,A,1
+Central African Republic,D,4
+Chad,D,4
+Chile,BB,2
+China,B,2
+Christmas Island,A,1
+Cocos (Keeling) Islands,A,1
+Colombia,B,2
+Comoros,D,4
+Congo (Democratic Rep Of),D,4
+Congo (People's Rep Of) ,D,4
+Cook Islands,c,3
+Costa Rica,B,3
+Cöte d'Ivoire,c,2
+Croatia,B,2
+Cuba,D,4
+Curacao,c,3
+Cyprus,B,2
+Czech Republic,A,2
+Denmark,AA,1
+Dibouti,D,3
+Dominica,c,3
+Dominican Republic,B,2
+Ecuador,c,4
+Egypt ,c,2
+El Salvador,B,2
+Equatorial Guinea,D,4
+Eritrea,D,4
+Estonia,AA,1
+Eswatini,c,4
+Ethiopia,D,4
+Falkland Islands,A,1
+Faroe Islands,A,1
+Fiji,D,4
+Finland,AA,1
+France,AA,1
+French Guiana,AA,1
+French Polynesia,BB,1
+French Southern Territory,AA,1
+Gabon,D,3
+Gambia,D,3
+Georgia,D,4
+Germany,AA,1
+Ghana,c,3
+Gibraltar,A,1
+Greece,B,2
+Greenland,A,1
+Grenada,c,3
+Guadeloupe,AA,1
+Guam,A,1
+Guatemala,B,2
+Guinea (Rep Of),D,4
+Guinea-Bissau,D,4
+Guyana,c,3
+Haiti,D,4
+Heard and McDonald Islands,AA,1
+Honduras,c,2
+Hong Kong SAR,BB,2
+Hungary,B,3
+Iceland,B,2
+India,B,2
+Indonesia,B,2
+Iran,D,4
+Iraq,D,4
+Ireland,AA,1
+Israel,BB,1
+Italy,A,2
+Jamaica,c,2
+Japan,A,1
+Jordan,c,3
+Kazakhstan,c,3
+Kenya,c,3
+Kiribati,c,3
+Kuwait,B,1
+Kyrgyz Republic,D,4
+Laos,D,4
+Latvia,A,1
+Lebanon,D,4
+Lesotho,c,3
+Liberia,D,4
+Libya,D,4
+Liechtenstein,AA,1
+Lithuania,A,1
+Luxembourg,AA,1
+Macao,BB,2
+Madagascar,D,3
+Malawi,D,3
+Malaysia,BB,2
+Maldives,c,3
+Mali,D,4
+Malta,A,1
+Marshall Islands,D,4
+Martinique,AA,1
+Mauritania,D,4
+Mauritius,BB,2
+Mayotte,A,1
+Mexico,BB,2
+Micronesia,c,3
+Moldova,D,4
+Monaco,AA,1
+Mongolia,D,3
+Montenegro,D,4
+Montserrat,BB,1
+Morocco,B,3
+Mozambique,D,4
+Myanmar (Burma),D,4
+Namibia,c,3
+Nauru,D,4
+Nepal,D,4
+Netherlands,AA,1
+New Caledonia,A,1
+New Zealand,AA,1
+Nicaragua,D,4
+Niger,D,4
+Nigeria,D,3
+Niue,B,2
+Norfolk Island,A,1
+North Korea,D,4
+North Macedonia,c,2
+Northern Mariana Islands,A,1
+Norway,AA,1
+Oman,c,3
+Pakistan,D,4
+Palau,c,3
+Panama,BB,2
+Papua New Guinea,D,4
+Paraguay,B,2
+Peru,B,2
+Philippines,B,2
+Pitcairn Islands,A,1
+Poland,BB,2
+Portugal,BB,1
+Puerto Rico,BB,3
+Qatar,B,1
+Reunion,AA,1
+Romania,B,3
+Russian Federation,c,3
+Rwanda,B,1
+Samoa,c,3
+San Marino,A,2
+Sao Tome & Principe,c,3
+Saudi Arabia,B,1
+Senegal,c,2
+Serbia,B,2
+Seychelles,D,3
+Sierra Leone,D,4
+Singapore,AA,1
+Slovak Republic,A,1
+Slovenia,BB,2
+Solomon Islands,D,4
+Somalia,D,4
+South Africa,c,3
+South Georgia/Sandwich Islands,AA,1
+South Korea,A,1
+South Sudan,D,4
+Spain,A,1
+Sri Lanka,D,4
+St Helena,A,1
+St. Kitts & Nevis,c,3
+St. Lucia,c,3
+St. Maarten,c,3
+St. Pierre Et Miquelon,A,1
+St. Vincent & The Grenadines,c,3
+Sudan,D,4
+Suriname,D,4
+Svalbard & Jan Ma en,A,1
+Sweden,AA,1
+Switzerland,AA,1
+Syria,D,4
+Taiwan,A,1
+Tajikistan,D,4
+Tanzania,c,3
+Thailand,B,2
+Timor Leste,D,4
+Togo,D,3
+Tokelau,A,1
+Tonga,D,4
+Trinidad & Tobago,B,3
+Tunisia,c,4
+Turkey,c,4
+Turkmenistan,D,4
+Turks & Caicos,A,1
+Tuvalu,c,3
+Uganda,c,3
+Ukraine,D,4
+United Arab Emirates,BB,2
+United Kingdom,AA,2
+United States,AA,1
+Uruguay,BB,2
+US Minor Outlying Islands,AA,1
+US Virgin Islands,A,1
+Uzbekistan,D,4
+Vanuatu,c,3
+Vatican City,AA,1
+Venezuela,D,4
+Vietnam,c,3
+Wallis & Futuna,A,1
+Yemen,D,4
+Zambia,D,4
+Zimbabwe,D,4
